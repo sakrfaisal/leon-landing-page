@@ -160,6 +160,7 @@ header .links:hover .menu-icon span:nth-of-type(2) {
 /* Start landing page */
 .landing {
     background-image: url(../images/black-and-white-mountain.avif);
+    background-position: bottom;
     background-size: cover;
     height: calc(100vh - 70px);
     /* background-position: 0px -170px; */
